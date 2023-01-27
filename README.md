@@ -1,3 +1,5 @@
+# Exemplo gerado para artigo sobre LazyLoad em serviços no Angular (Está atualmente no Medium)
+
 # LazyService
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 15.0.4.
